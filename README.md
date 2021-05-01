@@ -5,7 +5,6 @@ Use of deep learning and AI to detect undesirable or dangerous patient movement 
 ## yolo.py
 YOLO v4 model
 
-<a href="https://drive.google.com/file/d/1-E-cQp7s2nT2VjQAicZN5zG5xyVg7Ohn/view?usp=sharing"><img src=https://drive.google.com/file/d/1-E-cQp7s2nT2VjQAicZN5zG5xyVg7Ohn/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
 ## GUI.py
