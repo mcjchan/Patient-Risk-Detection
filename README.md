@@ -10,16 +10,16 @@ YOLO v4 model
 ## GUI.py
 Graphical user interface
 
-- Step 1:
+- Step 1 (camera for real-time detection):  
 ![image](https://drive.google.com/uc?export=view&id=1PIkxn3P2ACbluRc_hDRv23FdVKwd_B0U)
 
-- Step 2:
+- Step 2:  
 ![image](https://drive.google.com/uc?export=view&id=1RU38pEOBOC5LfxN2izjA_-f5TCHaBsYe)
 
-- Step 3:
+- Step 3:  
 ![image](https://drive.google.com/uc?export=view&id=1olR0Q9TxZrJT8IeqFlMls_2jgDujWfZu)
 
-- Step 4:
+- Step 4:  
 ![image](https://drive.google.com/uc?export=view&id=10D_VGNdLdAWjOUTCpzcb8y1eZHCQw6yP)
 
 ## frame.py
