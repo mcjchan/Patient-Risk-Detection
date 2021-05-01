@@ -3,9 +3,9 @@
 Use of deep learning and AI to detect undesirable or dangerous patient movement and to issue early warning to nurses for further action
 
 ## ***Scenario***
-- Climb out of bed
-- Fall out of bed
-- Remove tubes
+1. Climb out of bed
+2. Fall out of bed
+3. Remove tubes
 
 ------------
 
